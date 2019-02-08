@@ -9,9 +9,12 @@ A simple app concerning management of flights in the airport's air traffic contr
 i powiadomienie o tym serwera, który usuwa dany lot ze swojej listy lotów, tj jednocześnie przestaje mieć do niego w ogóle dostęp 
 i jakiekolwiek o nim informacje.
 
-Instrukcja obsługi
+
 1.Skompiluj plane, myserver i wrapper –> c(program). c(myserver). c(wrapper).
+
 2.Uruchom program –> wrapper:start().
+
 3.Wybierz opcję działania podaną przez interfejs (dodanie lotu, anulowanie lotu, podgląd bieżących lotów)
+
 4.Powtórz poprzedni krok lub wybierz opcję zakończenia działania programu.
 
